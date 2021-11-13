@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcelo Dutra or @MarceloBDutra !
-- 👀 I’m interested in technology, more specific in web developer and programming
+- 👀 I’m interested in technology, more specific in web developer and programming                             
 - 🌱 I’m currently learning about HTML, CSS e JS for developer web
-- 💞️ I’m looking to more learning and knowing for develop projects 
+- 💞️ I’m looking to more learning and knowi ng for develop pr ojects        
 - 📫 You can reach me on email mb.dutra94@hotmail.com
 
 <!---
