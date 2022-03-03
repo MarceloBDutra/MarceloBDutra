@@ -4,7 +4,7 @@ MarceloBDutra/MarceloBDutra is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ##
- ## Olá, sou o Marcelo Dutra !
+ ## Olá, sou  Marcelo Dutra !
 <div align="center">
   <a href="https://github.com/MarceloBDutra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloBDutra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
